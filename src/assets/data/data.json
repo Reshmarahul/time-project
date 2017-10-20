@@ -1,0 +1,87 @@
+{
+	"data": [{
+		"Name": "CRM Revamp",
+		"Type": "Capital",
+		"Status": "Active",
+		"Manager":"Jitendra Pongurlekhar",
+		"Director":"Jitendra Pongurlekhar"
+
+		
+	},
+	{
+		"Name": "Configure,Price,Quote",
+		"Type": "Capital",
+		"Status": "Active",
+		"Manager":"Sandesh Sachidanand",
+		"Director":"Satish Subramanian"
+
+		
+	},
+	{
+		"Name": "Bombasto",
+		"Type": "Capital",
+		"Status": "InActive",
+		"Manager":"Sandesh Sachidanand",
+		"Director":"Satish Subramanian"
+
+		
+	},
+	{
+		"Name": "Celeritas",
+		"Type": "Capital",
+		"Status": "Active",
+		"Manager":"Max Palumbo",
+		"Director":"Max Palumbo"
+
+		
+	},
+	{
+		"Name": "Magneta",
+		"Type": "Capital",
+		"Status": "Active",
+		"Manager":"Jitendra Pongurlekhar",
+		"Director":"Jitendra Pongurlekhar"
+
+		
+	},
+	{
+		"Name": "RubberMan",
+		"Type": "Capital",
+		"Status": "Active",
+		"Manager":"Sandesh Sachidanand",
+		"Director":"Satish Subramanian"
+
+		
+	},
+	{
+		"Name": "Dynama",
+		"Type": "Capital",
+		"Status": "Active",
+		"Manager":"Sandesh Sachidanand",
+		"Director":"Satish Subramanian"
+
+		
+	},
+	{
+		"Name": "Dr IQ",
+		"Type": "Capital",
+		"Status": "Active",
+		"Manager":"Max Palumbo",
+		"Director":"Max Palumbo"	
+
+		
+	},
+	
+	{
+		"Name": "tornado",
+		"Type": "Capital",
+		"Status": "Active",
+		"Manager":"Max Palumbo",
+		"Director":"Max Palumbo"
+
+		
+	}
+	]
+}
+
+	

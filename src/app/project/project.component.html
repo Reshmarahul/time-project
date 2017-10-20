@@ -1,0 +1,32 @@
+<h2>
+  Projects
+  
+</h2>
+ <div>
+<input type="text" name="search" placeholder="Search..">
+
+
+</div> 
+<div style="text-align:left">
+  <table style="width:100%">
+    <tr>
+      <th>NAME</th>
+      <th>TYPE</th>
+      <th>STATUS</th>
+      <th>MANAGER</th>
+      <th>DIRECTOR</th>
+    
+    </tr>
+
+ 
+<tr *ngFor="let di of results.data"> 
+  <td> {{di.Type}}</td>
+<td>{{di.Name}} </td>
+
+<td>{{di.Status}}</td>
+<td> {{di.Manager}}</td>
+  <td> {{di.Director}}</td>
+</tr>
+</table>
+</div>
+<a routerLink="/project/newproject"><button>Add Project</button></a>
